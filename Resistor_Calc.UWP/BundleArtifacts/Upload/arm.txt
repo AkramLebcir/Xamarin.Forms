@@ -1,0 +1,5 @@
+MainPackage=C:\project\Resistor-Calc\Resistor_Calc.UWP\bin\ARM\Release\Upload\Resistor_Calc.UWP_1.1.1.0_ARM.appx
+ResourcePack=C:\project\Resistor-Calc\Resistor_Calc.UWP\_scale-100.appx
+ResourcePack=C:\project\Resistor-Calc\Resistor_Calc.UWP\_scale-125.appx
+ResourcePack=C:\project\Resistor-Calc\Resistor_Calc.UWP\_scale-150.appx
+ResourcePack=C:\project\Resistor-Calc\Resistor_Calc.UWP\_scale-400.appx

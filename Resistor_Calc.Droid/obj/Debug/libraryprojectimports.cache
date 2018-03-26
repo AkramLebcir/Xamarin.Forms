@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars>
+    <Jar>obj/Debug/lp/0/jl/formsviewgroup.jar</Jar>
+    <Jar>obj/Debug/lp/3/jl/okhttp-2.3.0-jar-with-dependencies.jar</Jar>
+    <Jar>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/0/jl/formsviewgroup.jar</Jar>
+    <Jar>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/3/jl/okhttp-2.3.0-jar-with-dependencies.jar</Jar>
+  </Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/1/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/16/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/17/jl/res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/18/jl/res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>obj/Debug/lp/1/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/16/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/17/jl/assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>obj/Debug/lp/18/jl/assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/1.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/16.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/17.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/lp/18.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

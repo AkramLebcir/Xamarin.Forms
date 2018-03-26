@@ -1,0 +1,16 @@
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/actool/_PartialAppManifest.items
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/actool/_BundleResourceWithLogicalName.items
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Default-568h@2x.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Default-Portrait.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Default-Portrait@2x.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Default.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Default@2x.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Icon-60@3x.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Icon-Small-40@3x.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Icon-Small@3x.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/Icon.png
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/optimized/
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/Resistor_Calc.iOS.csproj.CoreCompileInputs.cache
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/Resistor_Calc.iOS.MainPage.xaml.g.cs
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.iOS/obj/iPhone/Release/Resistor_Calc.iOS.App.xaml.g.cs

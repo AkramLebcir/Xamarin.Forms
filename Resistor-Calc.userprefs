@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{C78EFF37-9023-489B-AED3-BCD32DF07DCF}|Default">
+  <MonoDevelop.Ide.ItemProperties.Resistor__Calc.Droid PreferredExecutionTarget="Android.Nexus_5X_API_27" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Resistor_Calc.iOS/Info.plist">
+    <Files>
+      <File FileName="Resistor_Calc.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="run" Name="run">
+      <Items>
+        <StartupItem ItemId="{5FC091E9-29C4-4702-BD5F-648283E48758}" ItemName="Resistor_Calc.Droid" ConfigurationId="Default" />
+        <StartupItem ItemId="{C78EFF37-9023-489B-AED3-BCD32DF07DCF}" ItemName="Resistor_Calc.iOS" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Resistor__Calc.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.B96AEC53-3514-4D79-A6E1-A9CAFA3E1FF7" automaticSigning="False" />
+</Properties>

@@ -1,0 +1,6 @@
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/Resistor_Calc.Droid.csprojResolveAssemblyReference.cache
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/Resistor_Calc.Droid.csproj.CoreCompileInputs.cache
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/Resistor_Calc.Droid.MainPage.xaml.g.cs
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/Resistor_Calc.Droid.App.xaml.g.cs
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/Resistor_Calc.Droid.dll
+/Volumes/Untitled 2/Github/Xamarin.Forms/Resistor_Calc.Droid/obj/Debug/Resistor_Calc.Droid.pdb

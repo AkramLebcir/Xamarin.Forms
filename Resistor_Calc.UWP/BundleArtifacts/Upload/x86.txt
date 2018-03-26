@@ -1,0 +1,1 @@
+MainPackage=C:\project\Resistor-Calc\Resistor_Calc.UWP\bin\x86\Release\Upload\Resistor_Calc.UWP_1.1.1.0_x86.appx

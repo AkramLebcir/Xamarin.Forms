@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Resistor_Calc"
+             x:Class="Resistor_Calc.MainPage" >
+        <StackLayout Padding="0,20,0,40">
+            <StackLayout HorizontalOptions="Center"
+                             VerticalOptions="CenterAndExpand"
+                             Padding="0,0,0,0">
+
+                <Label x:Name="resistor1"
+                           Text="00 Ω"
+                           HorizontalOptions="Center" 
+                           VerticalOptions="Center"
+                           FontSize="45"/>
+
+                <Label x:Name="resistor2"
+                           Text="± 00 %" 
+                           TextColor="Red"
+                           HorizontalOptions="Center" 
+                           VerticalOptions="Center"
+                           FontSize="25"/>
+
+            </StackLayout>
+            <StackLayout HorizontalOptions="Center"
+                             VerticalOptions="Center"
+                             Orientation="Horizontal"
+                             Padding="0,0,0,50">
+
+                <Picker x:Name="p1c1" 
+                            SelectedIndexChanged="p1c1_SelectedIndexChanged">
+                    <Picker.Items>
+                        <x:String>Black</x:String>
+                        <x:String>Brown</x:String>
+                        <x:String>Red</x:String>
+                        <x:String>Orange</x:String>
+                        <x:String>Yellow</x:String>
+                        <x:String>Green</x:String>
+                        <x:String>Blue</x:String>
+                        <x:String>Violet</x:String>
+                        <x:String>Grey</x:String>
+                        <x:String>While</x:String>
+                        
+                    </Picker.Items>
+                </Picker>
+
+                <Picker x:Name="p1c2" 
+                            SelectedIndexChanged="p1c2_SelectedIndexChanged">
+                    <Picker.Items>
+                        <x:String>Black</x:String>
+                        <x:String>Brown</x:String>
+                        <x:String>Red</x:String>
+                        <x:String>Orange</x:String>
+                        <x:String>Yellow</x:String>
+                        <x:String>Green</x:String>
+                        <x:String>Blue</x:String>
+                        <x:String>Violet</x:String>
+                        <x:String>Grey</x:String>
+                        <x:String>While</x:String>
+                        
+                    </Picker.Items>
+                </Picker>
+
+                <Picker x:Name="p1c3" 
+                                SelectedIndexChanged="p1c3_SelectedIndexChanged">
+                    <Picker.Items>
+                        <x:String>Black</x:String>
+                        <x:String>Brown</x:String>
+                        <x:String>Red</x:String>
+                        <x:String>Orange</x:String>
+                        <x:String>Yellow</x:String>
+                        <x:String>Green</x:String>
+                        <x:String>Blue</x:String>
+                        <x:String>Violet</x:String>
+                        <x:String>Gold</x:String>
+                        <x:String>Silver</x:String>
+                    </Picker.Items>
+                </Picker>
+
+                <Picker x:Name="p1c4" 
+                            SelectedIndexChanged="p1c4_SelectedIndexChanged"
+                        TextColor="Red">
+                    <Picker.Items>
+                        <x:String>Black</x:String>
+                        <x:String>Brown</x:String>
+                        <x:String>Red</x:String>
+                        <x:String>Green</x:String>
+                        <x:String>Blue</x:String>
+                        <x:String>Violet</x:String>
+                        <x:String>Grey</x:String>
+                        <x:String>Gold</x:String>
+                        <x:String>Silver</x:String>
+                    </Picker.Items>
+                </Picker>
+
+            </StackLayout>
+        </StackLayout>
+</ContentPage>
